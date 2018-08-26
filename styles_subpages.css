@@ -3,13 +3,8 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-family: 'Lato', sans-serif;
   color: white;
+  background-color: black;
 
-
-  background: url(img/SpeakEasy.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 
 
