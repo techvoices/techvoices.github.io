@@ -15,21 +15,14 @@ html {
 h1 {
    font-size: 100;
    text-align: center;
-   width: 100%;
+   width: 80%;
    color: white;
 }
 
-span {
-  font-size: 24;
-  color: white;
-  }
 
-a {
-    font-size: 20;
-    color: white;
-    }
 
 table {
+    width: 80%;
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
     padding: 10px;
