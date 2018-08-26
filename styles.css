@@ -27,6 +27,13 @@ a {
     text-decoration: none;
 }
 
+a.selected {
+    font-size: 100;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
 h4 {
     color: white;
 }
