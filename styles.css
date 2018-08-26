@@ -1,0 +1,35 @@
+html {
+  background: url(img/SpeakEasy.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family: 'Indie Flower', cursive;
+  color: white;
+}
+
+
+
+h1 {
+   font-size: 100;
+   text-align: center;
+   width: 100%;
+   color: white;
+}
+
+span {
+  font-size: 24;
+  color: white;
+  }
+
+a {
+    font-size: 20;
+    color: white;
+    }
+
+table {
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+        }
