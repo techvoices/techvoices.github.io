@@ -54,6 +54,15 @@ table {
     padding: 0px;
         }
 
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+        }
+
+td {
+  text-align: center;
+}
+
 .signup-button {
   font-size: 13px;
   padding-left: 35px;
