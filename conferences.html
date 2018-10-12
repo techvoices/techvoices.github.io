@@ -3,30 +3,17 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
-   <link type="text/css" rel="stylesheet" href="styles_subpages.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="styles_subpages.css" media="all" />
+  <script src="jquery-3.3.1.min.js"></script>
+  <script>
+      $(function(){
+          $("#includedNavContent").load("nav.html");
+      });
+  </script>
 </head>
 
 <body>
-
-<nav class="mainnav">
-  	<ul>
-  		<li class="selected">
-  			<a href="index.html">Home</a>
-  		</li>
-      <li>
-        <a href="info.html">Info</a>
-      </li>
-  		<li>
-  			<a href="speakers.html">Speaker Signup</a>
-  		</li>
-  		<li>
-  			<a href="mentors.html">Mentor Signup</a>
-  		</li>
-      <li>
-        <a href="conferences.html">Conferences</a>
-      </li>
-  	</ul>
-</nav>
+<div id="includedNavContent"></div>
 
 <table>
 <tr>
