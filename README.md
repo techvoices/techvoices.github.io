@@ -1,2 +1,2 @@
 # spkeazee.github.io
-Web site for Speak Easy program
+Web site for SpeakEasy program
