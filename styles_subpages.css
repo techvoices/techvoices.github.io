@@ -28,6 +28,12 @@ a {
   color: white;
 }
 
+div.key_content {
+    margin:0% 10%;
+    text-align: center;
+    width:80%;
+}
+
 table {
     width:100%"
     background: "rgb(0, 0, 0)"; /* fallback color */
