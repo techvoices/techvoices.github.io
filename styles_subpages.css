@@ -95,3 +95,22 @@ td {
   color: white;
   border-bottom: 4px solid #000000;
   margin-bottom: -4px; }
+
+.leadership div {
+    float: left;
+
+}
+
+.leadership.text {
+        max-width:50%;
+        min-width: 250px;
+}
+
+.leadership img {
+    max-width:280px
+}
+
+.block-content {
+    width: initial;
+    padding: 15px 0px;
+}
