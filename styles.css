@@ -86,9 +86,11 @@ html.index {
 
 .applicant-signups {
     margin: 40px;
+    height: 44px; /* the height of the link with padding/margin */
 }
 
 .applicant-signups a {
+  float: left;
   font-size: 13px;
   padding: 12px 35px;
   margin: 10px;
@@ -97,7 +99,6 @@ html.index {
   letter-spacing: 1px;
   text-transform: uppercase;
 
-  font-size: 20;
   text-align: center;
   color: white;
   text-decoration: none;
@@ -110,6 +111,7 @@ html.index {
 .social-media-link a {
     text-decoration: none;
     font-weight: bold;
+    padding-left: 10px;
 }
 
 
@@ -157,10 +159,28 @@ html.index {
 }
 
 .leadership.text {
-        max-width:50%;
-        min-width: 250px;
+    max-width:50%;
+    min-width: 250px;
 }
 
 .leadership img {
     max-width:280px
+}
+
+/* Open conferences page */
+
+.open-conf-logo {
+    padding: 20px 0px;
+}
+
+.conf-title {
+    float:left;
+    width: 150px;
+    padding: 15px 20px;
+}
+
+.conf-content {
+    padding: 15px 0px;
+    padding-left: 190px;
+    text-align: left;
 }
