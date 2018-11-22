@@ -90,7 +90,7 @@ html.index {
 }
 
 .applicant-signups a {
-  float: left;
+  display: inline-block;
   font-size: 13px;
   padding: 12px 35px;
   margin: 10px;
@@ -102,10 +102,11 @@ html.index {
   text-align: center;
   color: white;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .social-media-link {
-    margin: 40px;
+    margin: 20px;
 }
 
 .social-media-link a {
