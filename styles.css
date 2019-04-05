@@ -1,41 +1,47 @@
+/*
+logo_dark_blue: #2A6B7A
+logo_light_blue:#4AB7C3
+logo_orange:    #E79153
+*/
+
 html {
   font-size: 20;
   font-family: 'Open Sans', sans-serif;
   font-family: 'Lato', sans-serif;
-  color: white;
-  background-color: black;
+  color: #2A6B7A; /* logo_dark_blue */
+  background-color: white;
 }
 
 h1 {
     font-size: 100;
     text-align: center;
-    color: white;
+    color: #2A6B7A; /* logo_dark_blue */
     margin: 25px 0px;
 }
 
 h2 {
     font-size: 30;
-    color: white;
+    color: #2A6B7A;  /* logo_dark_blue */
     margin: 15px 0px;
 }
 
 h3 {
     font-size: 80;
-    color: white;
+    color: #2A6B7A;  /* logo_dark_blue */
 }
 
 h4 {
-    color: white;
+    color: #2A6B7A;  /* logo_dark_blue */
 }
 
 a {
-  color: white;
+  color: #4AB7C3;  /* logo_light_blue */
 }
 
 a.selected {
     font-size: 20;
     text-align: center;
-    color: white;
+    color: #E79153;  /* logo_orange */
     text-decoration: none;
 }
 
@@ -61,6 +67,9 @@ div.narrow_content {
     padding: 15px 0px;
 }
 
+.stand-out-list {
+    color: #E79153;  /* logo_orange */
+}
 
 
 /* Index page */
@@ -69,8 +78,6 @@ html.index {
     font-size: 20;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Lato', sans-serif;
-    color: white;
-    background-color: black;
     background: url(img/SpeakEasy.jpg) no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -82,6 +89,10 @@ html.index {
     background: "rgb(0, 0, 0)"; /* fallback color */
     background: rgba(0, 0, 0, 0.5);
     padding: 10px;
+}
+
+.subtitle {
+    color: #4AB7C3;  /* logo_light_blue */
 }
 
 .applicant-signups {
@@ -100,17 +111,19 @@ html.index {
   text-transform: uppercase;
 
   text-align: center;
-  color: white;
+  color: black;
   text-decoration: none;
   white-space: nowrap;
 }
 
 .social-media-link {
+    color: #4AB7C3;  /* logo_light_blue */
     margin: 20px;
 }
 
 .social-media-link a {
     text-decoration: none;
+    color: white;
     font-weight: bold;
     padding-left: 10px;
 }
@@ -135,22 +148,20 @@ html.index {
   text-transform: uppercase;
   text-decoration: none;
   display: block;
-  color: white;
+  color: #E79153;  /* logo_orange */
   padding: 10px 0;
 }
 
 .mainnav a:hover {
-  border-bottom: 4px solid white;
+  border-bottom: 4px solid #E79153;  /* logo_dark_blue */
   margin-bottom: -4px;
 }
 
 .mainnav a.selected, .mainnav a.selected:hover {
-  color: white;
+  color: #E79153;  /* logo_dark_blue */
   border-bottom: 4px solid #000000;
   margin-bottom: -4px;
 }
-
-
 
 
 /* Leadership team page */
