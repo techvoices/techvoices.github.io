@@ -1,0 +1,16 @@
+{
+  "title": "SpeakEasy",
+  "url": "https://speaking-easy.com/",
+  "description": "SpeakEasy description",
+  "feed": {
+    "subtitle": "SpeakEasy description",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://speaking-easy.com/feed/feed.xml",
+    "id": "https://speaking-easy.com/"
+  },
+  "author": {
+    "name": "SpeakEasy",
+    "email": "spkeazee@gmail.com"
+  }
+}

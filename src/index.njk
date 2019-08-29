@@ -1,0 +1,57 @@
+---
+layout: layouts/home.njk
+tags:
+  - nav
+navtitle: Home
+---
+
+<div class="center">
+  <img class="mainlogo" src="img/Logo.png" alt="SpeakEasy">
+  <h2 class="subtitle center">Increasing Speaker Diversity at Testing and Tech Conferences</h2>
+
+  <div class="shadow-box">
+
+    <div class="applicant-signups block-content">
+      <a class="awesomebutton" href="speakers.html">Join as Mentee</a>
+      <a class="awesomebutton" href="mentors.html">Join as Mentor</a>
+    </div>
+
+
+    <div class="block-content">
+      <div class="social-media-link">
+        <span class="icon-envelope-o"></span>
+        <a href="mailto:spkeazee@gmail.com" target="_blank"> Email us at spkeazee@gmail.com</a>
+      </div>
+      <div class="social-media-link">
+        <span class="icon-twitter-square"></span>
+        <a href="http://twitter.com/spkeazee" target="_blank"> We are on Twitter as @spkeazee</a>
+      </div>
+    </div>
+
+  <div>
+    <form style="border:0px solid;padding:0px;text-align:center;" action="https://tinyletter.com/speaking-easy"
+    method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/speaking-easy',
+    'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p>
+    <label for="tlemail">Subscribe to our Newsletter.</label></p><p>
+      <input type="text" style="width:200px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/>
+      <input type="submit" value="Subscribe" /><p></p></form>
+  </div>
+
+  <div>
+    <a href="https://opencollective.com/speak-easy/donate" target="_blank">
+      <img src="https://opencollective.com/speak-easy/donate/button@2x.png?color=blue" width=300/>
+    </a>
+  </div>
+
+
+
+
+  <h1>Latest 3 Posts</h1>
+
+  {% set postslist = collections.posts | head(-3) %}
+  {% include "postslist.njk" %}
+
+  <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+
+
+</div>
