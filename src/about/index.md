@@ -64,9 +64,3 @@ Sponsoring SpeakEasy to be visible in our channels is also available.
 
 For questions, contact [SpeakEasy](mailto:spkeazee@gmail.com).
 
-## Latest 3 Posts
-
-  {% set postslist = collections.posts | head(-3) %}
-  {% include "postslist.njk" %}
-
-  <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>

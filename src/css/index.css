@@ -296,6 +296,27 @@ a[href].direct-link:focus:visited,
   box-shadow: inset 0 0 5px 0 rgba(0,0,0,0.75);
 }
 
+.newsletterbutton {
+  background-color: var(--lightblue);
+  color: var(--black) !important;
+  border: 0;
+  padding: 1.5ex 3ex;
+  margin: 2ex auto;
+  display: block;
+  text-decoration: none;
+  letter-spacing: 0.05ex;
+  font-weight: bold;
+  max-width: 30rem;
+  border-radius: 0.25ex;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.75);
+}
+
+.newsletterbutton:hover,
+.newsletterbutton:focus
+.newsletterbutton:active {
+  background-color: var(--white);
+  box-shadow: inset 0 0 5px 0 rgba(0,0,0,0.75);
+}
 
 
 
