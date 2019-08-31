@@ -1,9 +1,9 @@
 {
   "title": "SpeakEasy",
   "url": "https://speaking-easy.com/",
-  "description": "SpeakEasy description",
+  "description": "Increasing Speaker Diversity at Testing and Tech Conferences",
   "feed": {
-    "subtitle": "SpeakEasy description",
+    "subtitle": "SpeakEasy - Increasing Speaker Diversity at Testing and Tech Conferences",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://speaking-easy.com/feed/feed.xml",
