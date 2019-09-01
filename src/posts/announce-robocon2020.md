@@ -4,6 +4,7 @@ description: RoboCon 2020 Call for Proposals open until Sept 16th
 date: 2019-07-01
 tags:
   - partner conferences
+  - Submit by Sept 17
 layout: layouts/post.njk
 ---
 
