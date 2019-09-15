@@ -25,6 +25,7 @@ We have been working with conferences, speakers and mentors, and want to celebra
    * <a href="https://twitter.com/baileyhanna"  target="_blank">Bailey Hanna</a>: Don't take it Personally. at <i>CAST 2018</i>, mentored by <a href="https://twitter.com/QA_nna"  target="_blank">Anna Royzman</a>
    * <a href="https://twitter.com/ButchMayhew"  target="_blank">Butch Mayhew</a>: What!!! You Don't Have Test Cases? at <i>Agile Testing Days USA 2019</i></li>
    * <a href="https://twitter.com/dramatictester" target="_blank">Fanny Galardo</a>: Finding Your Voice During Agile Transformations. at <I>Agile Testing Days USA 2019</i>, mentored by [Lisa Crispin](https://twitter.com/lisacrispin)
+   * Harry Girlea: 13 vs 18 - Who says WE can't be YOU? at BTD 2017 and UKStar 2018, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * Igor Samokysh: Performance Testing of Web Applications - so Much More than Running a Script, at TestBash Germany 2019, mentored by <a href="https://twitter.com/LenaPejgan">Lena Wiberg</li>
    * <a href="https://twitter.com/jasmintestscode"  target="_blank">Jasmin Smith</a>: Getting Buy-In for Mob Programming. at <i>Agile Testing Days 2019</i>, mentored by <[Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * <a href="https://twitter.com/kemmraj" target="_blank">Kemmy Raji</a>: Foster teamwork with Just In Time Planning. at <i>Agile Testing Days USA 2019</i>, mentored by <a href="https://twitter.com/SelenaDelesie"  target="_blank">Selena Delesie</a>
