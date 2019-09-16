@@ -22,7 +22,7 @@ Speaker Benefits:
   * reimbursement for actual expenses incurred in travel up to a maximum €150,- for speakers from Germany. There will be event train tickets available for 110,- Euro.
   * additional travel budget for foreign speakers possible (after alignment)
 
-How to Submit: Call for Proposals in [english](http://p352444.mittwaldserver.info/fileadmin/user_upload/5.0_GTD/2020/cfp/GTD_2020_Call_for_Papers_-_EN.pdf) or [german](https://www.germantestingday.info/german-testing-day-2020/programm/call-for-papers.html)
+How to Submit: Call for Proposals in [English](http://p352444.mittwaldserver.info/fileadmin/user_upload/5.0_GTD/2020/cfp/GTD_2020_Call_for_Papers_-_EN.pdf) or [German](https://www.germantestingday.info/german-testing-day-2020/programm/call-for-papers.html)
 
   * Use [German Testing Day own submission system](http://confcall.germantestingday.info/)
   * If you have joined SpeakEasy as mentee, even if you did not yet have mentor assigned, mention SpeakEasy in the Notes field.
