@@ -8,12 +8,22 @@ tags:
 layout: layouts/post.njk
 ---
 
+![Agile Testing Days USA](../../img/2020/atdusa.png)
+
+Agile Testing Days USA 2020 presents: A SpeakEasy Track built in Collaboration between the conference and SpeakEasy! Seeking 1st time speakers from *South America, USA and Canada*.
+
+<div class="applicant-signups block-content">
+      <a class="awesomebutton" href="https://calendly.com/maaret-pyhajarvi/atdusa-speakeasy">Schedule a Call of Collaboration</a>
+</div>
+
+<h2> The Basics </h2>
+
 The general call for proposals for Agile Testing Days USA 2020 in Chicago, Illinois, USA is closed and the SpeakEasy track building for the conference starts. While the regular talks are being scheduled, we seek a track of **9 talks** of new voices from the Americas. The call this time limits to seek people from *South America, USA and Canada*.
 
 Talk slots we look to fill are **30 minutes**. For accepted speakers, conference pays travel&hotel capped to a limit and SpeakEasy scholarships are used to add to enabling this so that *speakers on this track don't pay their travel costs*. If childcare at home is what blocks your speaking, that is also something we can work together to organize so that you could bring your voice to this conference.
 
 **What**: Agile Testing Days USA 2020
-**When6Where**: June 21-25th, Chicago, Illinois, USA
+**When & Where**: June 21-25th, Chicago, Illinois, USA
 **Speaker Benefits**: free attendance, travel&hotel paid, financial aid for other blocking issues such as childcare in collaboration of the conference & SpeakEasy Scholarships
 **How to Submit**: schedule a call [https://calendly.com/maaret-pyhajarvi/atdusa-speakeasy](https://calendly.com/maaret-pyhajarvi/atdusa-speakeasy) by Nov 7th.
 
