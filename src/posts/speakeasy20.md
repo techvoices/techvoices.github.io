@@ -22,7 +22,7 @@ One way we are supporting people is by identifying the different stages on their
 
    * SpeakEasy Speakers: 1st timers in international conferences
    * SpeakEasy Practitioners: 2-5 timers, building experience but feeling mentor, perhaps a new one, is necessary. These may also be people who submitted successfully without a mentor, and now do their first one mentored. (this program will start when mentors are available)
-   * SpeakEasy Keynotes: building up to regular speakers and keynoters.
+   * SpeakEasy Professionals: building up to regular speakers and keynoters.
 
 For partner conference submissions, mention you are with SpeakEasy if you are either SpeakEasy Speaker, if you have been assigned or requested a mentor but are awaiting a mentor assignment.
 
