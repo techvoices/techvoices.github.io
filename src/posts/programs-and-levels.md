@@ -8,7 +8,7 @@ layout: layouts/post.njk
 ---
 Looking at our available resources, we are experimenting with ways of finding the right way of supporting the speaker community in the growth SpeakEasy is set up for. This has lead us to have only two programs open for now:
 
-   * **SpeakEasy Speaker** -program sets a newbie speaker up with a mentor to work their way to their 1st international conference.
+   * **SpeakEasy Speaker** -program sets a newbie speaker up with a mentor to work their way to their 1st international conference. This is a continuous program, where we set subprograms for particular conferences to build whole tracks or experiment with new ways of helping conferences get new voices.
 
    * **SpeakEasy Keynote** -program sets new keynoters up for partner conference keynotes that have specific calls for keynoters. We have worked with Agile Testing Days USA 2019 and with Selenium Conference London 2019 on this program.
 
