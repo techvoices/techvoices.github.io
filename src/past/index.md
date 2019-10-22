@@ -36,10 +36,12 @@ We have been working with conferences, speakers and mentors, and want to celebra
    * [Lorna Smyth](https://twitter.com/DigiLorna): Smart Testing With AI Using Data Mining, at *StarWest 2019*, mentored by [Lisa Crispin](https://twitter.com/lisacrispin)
    * [Marit van Dijk](https://twitter.com/MaritvanDijk77): Collaborating on Open Source Software. at <i>Selenium Conference Tokyo 2019</i>, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * [Mary Fernquist-Anderson](https://twitter.com/GrrlPirate): Getting the Story Right To the Team. at Agile Testing Days USA
+   * [Mesut Durukal](https://twitter.com/DurukalMesut): How to ensure Testing Robustness in Microservice Architectures and Cope with Test Smells at *HUSTEF 2019*,  mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * [Michelle Macdonald](https://twitter.com/mishmaccas): Sleeping is not your best friend in automation. at *Selenium Conference Chicago 2018*, mentored by [Erwin van Der Koogh](https://twitter.com/evanderkoogh)
    * [Mirjana Kolarov](https://twitter.com/mirjanakolarov): Measuring Performance - Measure Once, Cut Twice. at *EuroSTAR 2016*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * Monika Budhiraja: 10 Things We Did to Relocate Testers from Waterfall Town to Agile City. at *Test Leadership Congress 2019*, mentored by Klaus Moritzen.
    * [Mor Korem](https://twitter.com/temorel): What Does It Mean To Be a Testing Unicorn, at *Agile Testing Days 2018* and What to Expect When Moving to Scrum?, *Belgrade Test Conference 2018*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
+   * [Crystal Mbanefo](https://twitter.com/CrystalMbanefo): Emotional Intelligence. at *Software Crafters Spain 2019* and Uplifting Feedback. at European Testing Conference 2020, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * [Parveen Khan](ttps://twitter.com/Parveen_Khan10): A Tester's Survival Guide for Agile Transition. at *Agile Testing Days USA 2019*, mentored by [Angie Jones](https://twitter.com/techgirl1908)
    * [Rachel Kibler](https://twitter.com/racheljoi): Mobile and Chatbots - Effective Testing, at *CAST 2018*, mentored by [Gerie Owen](https://twitter.com/GerieOwen).
    * [Raye-Anne Hurst](https://twitter.com/RayeAnneHurst): Define Your Quality and Apply Key Elements to Achieve it! at *Agile Testing Days USA 2019*, mentored by [Janet Gregory](https://twitter.com/JanetGregory)
