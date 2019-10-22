@@ -49,6 +49,7 @@ We have been working with conferences, speakers and mentors, and want to celebra
    * <a href="https://twitter.com/sviswalingam" target="_blank">Sneha Viswalingam</a>: Building the Blocks of trust in Automation. at *Selenium Conference India 2018*, mentored by <a href="https://twitter.com/lazycoderio" target="_blank">Andrew Krug</a>
    * Trisha Chetani: Creating Test Stability to Create Continuous Delivery. at <i>CAST 2019</i>, mentored by Kristine Corbus
    * <a href="https://twitter.com/vibranttester">Varuna Srivastava</a>: Improving Test Run Time Moving to AWS Lambda at German Testing Day 2019, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
+   * Vivian Acquah: Pump Up the Jam @ Work. at *Women in Agile Europe 2019*, mentored by [Astrid Claessen](https://twitter.com/astridclaessen)
    * <a href="https://twitter.com/microrutter">Wayne Rutter</a>: Cognitive QA, at *UKStar 2019*, mentored by <a href="https://twitter.com/LenaPejgan">Lena Wiberg</a>
    * Jyothi Rangaiah: The Role of Testers as Requirement Gatherers. at <i>BSC2015</i> and <i>StarWest 2016</i>, mentored by [Carsten Feilberg](https://twitter.com/Carsten_F)
    * [James Thomas](https://twitter.com/qahiccupps)</a>: Your Testing is a Joke. at <i>EuroSTAR 2015</i>, mentored by <a href="https://twitter.com/workroomprds" target="_blank">James Lyndsay</a> <a href="https://qahiccups.blogspot.com/2017/01/speaking-easier.html" target="_blank">[Blog]</a>
