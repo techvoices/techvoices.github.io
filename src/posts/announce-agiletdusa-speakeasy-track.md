@@ -13,7 +13,7 @@ layout: layouts/post.njk
 Agile Testing Days USA 2020 presents: A SpeakEasy Track built in Collaboration between the conference and SpeakEasy! Seeking 1st time speakers from *South America, USA and Canada*.
 
 <div class="applicant-signups block-content">
-      <a class="awesomebutton" href="https://calendly.com/maaret-pyhajarvi/atdusa-speakeasy">Schedule a Call of Collaboration</a>
+      <a class="awesomebutton2" href="https://calendly.com/maaret-pyhajarvi/atdusa-speakeasy">Schedule a Call of Collaboration</a>
 </div>
 
 <h2> The Basics </h2>
