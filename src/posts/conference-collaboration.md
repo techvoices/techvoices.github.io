@@ -1,7 +1,7 @@
 ---
 title: SpeakEasy Conference Collaboration
 description: examples of how we collaborate with conferences
-date: 2018-10-23
+date: 2019-10-23
 tags:
   - administrivia
 layout: layouts/post.njk
