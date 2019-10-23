@@ -28,6 +28,6 @@ Speaker Benefits (for sessions >45 min):
    * Accomodation covered, 2 nights in hotel
    * [Speaker Compensation Policy](https://2020.seleniumconf.in/speakers.html#compensation)
 
-How to Submit: [SpeakEasy Playground](https://confengine.com/speak-easy))
+How to Submit: [SpeakEasy Playground](https://confengine.com/speak-easy)
 
 
