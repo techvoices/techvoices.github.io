@@ -1,7 +1,7 @@
 ---
 title: Announcing Selenium Conference India Collaboration
 description: Trying out public portfolio to help build stronger SpeakEasy proposals
-date: 2019-10-23
+date: 2019-10-24
 tags:
    - partner conferences
    - submit by Dec 6th
