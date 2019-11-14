@@ -25,9 +25,9 @@ Speaker Benefits:
 How to Submit: [Call for Proposals](https://www.papercall.io/robocon2020)
 
   * Use RoboCon own submission system
-  * If you have joined SpeakEasy as mentee, even if you did not yet have mentor assigned, mention SpeakEasy in the Notes field.
-  * If you have not joined SpeakEasy yet, please do so by scheduling a [short chat](https://calendly.com/maaret-pyhajarvi/speakeasy-mentees)
-  * You can apply for the conference also without SpeakEasy but please only mention SpeakEasy if you have already a connection with us.
+  * If you have joined TechVoices as mentee, even if you did not yet have mentor assigned, mention TechVoices in the Notes field.
+  * If you have not joined TechVoices yet, please do so by scheduling a [short chat](https://calendly.com/maaret-pyhajarvi/TechVoices-mentees)
+  * You can apply for the conference also without TechVoices but please only mention TechVoices if you have already a connection with us.
 
 
 

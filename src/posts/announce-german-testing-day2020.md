@@ -1,5 +1,5 @@
 ---
-title: German Testing Day returns to SpeakEasy for 2020
+title: German Testing Day returns to TechVoices for 2020
 description: German Testing Day 2020 Call for Proposals is Open
 date: 2019-09-14
 tags:
@@ -10,7 +10,7 @@ layout: layouts/post.njk
 ![German Testing Day 2020](../../img/2020/GTD_SpeakEasy2020.png)
 
 
-What: [German Testing Day](https://www.germantestingday.info) Is the independent software quality conference organized by testers for testers. 
+What: [German Testing Day](https://www.germantestingday.info) Is the independent software quality conference organized by testers for testers.
 
 When: German Testing Day 2020, May 6-7th, Kap Europa, Frankfurt am Main, Germany
 
@@ -25,7 +25,7 @@ Speaker Benefits:
 How to Submit: Call for Proposals in [English](http://p352444.mittwaldserver.info/fileadmin/user_upload/5.0_GTD/2020/cfp/GTD_2020_Call_for_Papers_-_EN.pdf) or [German](https://www.germantestingday.info/german-testing-day-2020/programm/call-for-papers.html)
 
   * Use [German Testing Day own submission system](http://confcall.germantestingday.info/)
-  * If you have joined SpeakEasy as mentee, even if you did not yet have mentor assigned, mention SpeakEasy in the Notes field.
-  * If you have not joined SpeakEasy yet, please do so by scheduling a [short chat](https://calendly.com/maaret-pyhajarvi/speakeasy-mentees)
-  * You can apply for the conference also without SpeakEasy but please only mention SpeakEasy if you have already a connection with us.
+  * If you have joined TechVoices as mentee, even if you did not yet have mentor assigned, mention TechVoices in the Notes field.
+  * If you have not joined TechVoices yet, please do so by scheduling a [short chat](https://calendly.com/maaret-pyhajarvi/techvoices-mentees)
+  * You can apply for the conference also without TechVoices but please only mention TechVoices if you have already a connection with us.
 

@@ -1,11 +1,13 @@
 ---
-title: SpeakEasy Beginnings
-description: wondering how SpeakEasy came about - here's our story
+title: TechVoices Beginnings
+description: wondering how TechVoices came about - here's our story
 date: 2018-06-01
 tags:
   - beginnings
 layout: layouts/post.njk
 ---
+<i>Note: What started as SpeakEasy is now known as TechVoices. </i>
+
 Towards the end of 2014, the two of us were sitting over drinks at a the speakers’ reception for a major international conference and getting grumpy about the poor ratio of women to men in the room. After all, we each knew lots of bright, engaged women testers doing really interesting work. Why weren’t they there with us?
 
 Neither of us is a patient person and we share a low boredom threshold, so we were soon having much more fun tossing around ideas than just grumping. We wanted to DO SOMETHING POSITIVE! What could we do to get more women on stage? We sounded out some prominent women speakers at the reception and they were all enthusiastic about doing something too. SpeakEasy was born out of those conversations.
