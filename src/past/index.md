@@ -9,13 +9,13 @@ templateClass: tmpl-post
 
 We have been working with conferences, speakers and mentors, and want to celebrate the content we have co-created. This page collects talks we have facilitated into availability, recognizing the awesome voices of the speakers we have helped amplify.
 
-## SpeakEasy Keynoters
+## TechVoices Keynoters
 
    * [Rachel Kibler](https://twitter.com/racheljoi): Real Life is Not an Edge Case at *Agile Testing Days USA 2019*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp).
    * [Raluca Morariu](https://twitter.com/schumitza): Internal Open Source at *Selenium Conference London 2019*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp).
 
 
-## SpeakEasy Speakers
+## TechVoices Speakers
 
    * [Aditi Mulay](https://twitter.com/AditiMulay18): UI Automation - It's Not Free, at *Selenium Conference Chicago 2018*, and Leveraging Development Principles into Automation Framework, at *Agile Testing Days USA 2019*, mentored by [Bob Galen](https://twitter.com/bobgalen)
    * [Angela Riggs](https://twitter.com/AngelaRiggs_): Why Is There a Marble in Your Nose, at *CAST 2019*, and Creating a Culture of Quality Assurance, at *TestBash San Francisco 2018*, mentored by [Lina Zubyte](https://twitter.com/buggylina).
