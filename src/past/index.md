@@ -25,7 +25,7 @@ We have been working with conferences, speakers and mentors, and want to celebra
    * [Butch Mayhew](https://twitter.com/ButchMayhew): What!!! You Don't Have Test Cases? at *Agile Testing Days USA 2019*
    * [Fanny Galardo](https://twitter.com/dramatictester): Finding Your Voice During Agile Transformations. at <I>Agile Testing Days USA 2019</i>, mentored by [Lisa Crispin](https://twitter.com/lisacrispin)
    * Igor Samokysh: Performance Testing of Web Applications - so Much More than Running a Script, at *TestBash Germany 2019*, mentored by [Lena Wiberg](https://twitter.com/LenaPejgan)
-   * [Jasmin Smith][https://twitter.com/jasmintestscode): Getting Buy-In for Mob Programming. at *Agile Testing Days 2019*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
+   * [Jasmin Smith](https://twitter.com/jasmintestscode): Getting Buy-In for Mob Programming. at *Agile Testing Days 2019*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * [Kemmy Raji](https://twitter.com/kemmraj): Foster teamwork with Just In Time Planning. at *Agile Testing Days USA 2019*, mentored by [Selena Delesie](https://twitter.com/SelenaDelesie)
    * [Kim Nepata](https://twitter.com/C2KimN): Blockchain 101 - Growth & Pains of a Tester. at *Selenium Conference Tokyo 2019*, mentored by [Andrew Krug](https://twitter.com/lazycoderio)
    * Kwesi Peterson: How I Learned to Be a Better Tester Through Practicing Humble Inquiry, at *Test Leadership Congress 2019*, *TestBash Manchester 2019*, and *EuroSTAR 2019*, mentored by [James Lyndsay](https://twitter.com/workroomprds)
