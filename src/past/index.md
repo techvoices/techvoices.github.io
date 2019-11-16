@@ -5,6 +5,9 @@ tags:
   - nav
 navtitle: Graduates
 templateClass: tmpl-post
+permalink: /graduates/
+
+
 ---
 
 We have been working with conferences, speakers and mentors, and want to celebrate the content we have co-created. This page collects talks we have facilitated into availability, recognizing the awesome voices of the speakers we have helped amplify.
