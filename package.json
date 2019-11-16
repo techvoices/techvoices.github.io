@@ -1,7 +1,7 @@
 {
-  "name": "speakeasy-homepage",
+  "name": "techvoices-homepage",
   "version": "5.0.0",
-  "description": "SpeakEasy is a diversity initiative for tech conferences.",
+  "description": "TechVoices is a diversity initiative for tech conferences.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/spkeazee/spkeazee.github.io.git"
+    "url": "git://github.com/techvoices/techvoices.github.io.git"
   },
   "author": {
-    "name": "Maaret Pyhäjärvi, Abigail Bangser, Kristine Corbus, Ash Coleman",
+    "name": "Maaret Pyhäjärvi, Abigail Bangser, Ash Coleman",
     "email": "spkeazee@gmail.com",
-    "url": "https://speaking-easy.com"
+    "url": "https://techvoices.org"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spkeazee/spkeazee.github.io/issues"
+    "url": "https://github.com/techvoices/techvoices.github.io/issues"
   },
-  "homepage": "https://github.com/spkeazee/spkeazee.github.io#readme",
+  "homepage": "https://github.com/techvoices/techvoices.github.io#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
