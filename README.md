@@ -1,2 +1,2 @@
-# spkeazee.github.io
+# techvoices.github.io
 Web site for TechVoices program
