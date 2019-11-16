@@ -48,7 +48,7 @@ We have been working with conferences, speakers and mentors, and want to celebra
    * [Angela Riggs](https://twitter.com/AngelaRiggs_): Why Is There a Marble in Your Nose, at *CAST 2019*, and Creating a Culture of Quality Assurance, at *TestBash San Francisco 2018*, mentored by [Lina Zubyte](https://twitter.com/buggylina).
    * [Bhagya Perera](https://twitter.com/bhagyagdm): How to Bring Change of End-to-End Test Automation without Permission, at *EuroSTAR 2018*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * [Bailey Hanna](https://twitter.com/baileyhanna): Don't take it Personally. at *CAST 2018*, mentored by [Anna Royzman](https://twitter.com/QA_nna)
-   * [Lilit Sharkhatunyan](https://twitter.com/lilitshark): Practical ideas how to make regression testing fun, at *Agile Testing Days 2018*, mentored by [https://twitter.com/mariakedemo](Maria Kedemo)
+   * [Lilit Sharkhatunyan](https://twitter.com/lilitshark): Practical ideas how to make regression testing fun, at *Agile Testing Days 2018*, mentored by [Maria Kedemo](https://twitter.com/mariakedemo)
    * [Michelle Macdonald](https://twitter.com/mishmaccas): Sleeping is not your best friend in automation. at *Selenium Conference Chicago 2018*, mentored by [Erwin van Der Koogh](https://twitter.com/evanderkoogh)
    * [Mor Korem](https://twitter.com/temorel): What Does It Mean To Be a Testing Unicorn, at *Agile Testing Days 2018* and What to Expect When Moving to Scrum?, *Belgrade Test Conference 2018*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
    * [Rachel Kibler](https://twitter.com/racheljoi): Mobile and Chatbots - Effective Testing, at *CAST 2018* mentored by [Gerie Owen](https://twitter.com/GerieOwen)
