@@ -15,11 +15,11 @@ layout: layouts/post.njk
 Requirements:
 
    * Has not done major international conference keynotes before
-   * Has been a track speaker before in international conferences</li>
-   * Is someone who belongs to a gender minority in tech, e.g. women and non-binary people</li>
-   * Prepares a reviewed proposal with TechVoices mentor</li>
-   * Has the proposal available by <b>May 15th</b></li>
-   * Gets selected by Selenium Conference team from list submitted by TechVoices</li>
+   * Has been a track speaker before in international conferences
+   * Is someone who belongs to a gender minority in tech, e.g. women and non-binary people
+   * Prepares a reviewed proposal with TechVoices mentor
+   * Has the proposal available by **May 15th**
+   * Gets selected by Selenium Conference team from list submitted by TechVoices
 
 Interested? Let's get started. <a href="https://calendly.com/maaret-pyhajarvi/seconf-keynote-prep">Book
 your session with TechVoices mentor Maaret Pyhäjärvi</a> to figure
