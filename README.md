@@ -1,2 +1,2 @@
 # spkeazee.github.io
-Web site for SpeakEasy program
+Web site for TechVoices program
