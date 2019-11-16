@@ -62,5 +62,5 @@ TechVoices raises money through voluntary fees for finding underindexed and new 
 
 Sponsoring TechVoices to be visible in our channels is also available.
 
-For questions, contact [TechVoices](mailto:spkeazee@gmail.com).
+For questions, contact [TechVoices](mailto:techvoices.org@gmail.com).
 
