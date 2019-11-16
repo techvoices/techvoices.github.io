@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 # Selenium Conference London Call for Keynote
 
-<a href="https://seleniumconf.co.uk">Selenium Conference, October 7-8th 2019 in London</a> seeks a keynote speaker together with TechVoices!
+[https://seleniumconf.co.uk](Selenium Conference, October 7-8th 2019 in London) seeks a keynote speaker together with TechVoices!
 
 Requirements:
 
@@ -21,6 +21,6 @@ Requirements:
    * Has the proposal available by **May 15th**
    * Gets selected by Selenium Conference team from list submitted by TechVoices
 
-Interested? Let's get started. <a href="https://calendly.com/maaret-pyhajarvi/seconf-keynote-prep">Book
-your session with TechVoices mentor Maaret Pyhäjärvi</a> to figure
-out what a keynote is about and what you could offer for the 600 person audience. <p>
+Interested? Let's get started. [https://calendly.com/maaret-pyhajarvi/seconf-keynote-prep[(Book
+your session with TechVoices mentor Maaret Pyhäjärvi) to figure
+out what a keynote is about and what you could offer for the 600 person audience.
