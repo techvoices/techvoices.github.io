@@ -1,13 +1,13 @@
 {
   "title": "TechVoices",
-  "url": "https://speaking-easy.com/",
+  "url": "https://techvoices.org/",
   "description": "Increasing Speaker Diversity at Testing and Tech Conferences",
   "feed": {
     "subtitle": "TechVoices - Increasing Speaker Diversity at Testing and Tech Conferences",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://speaking-easy.com/feed/feed.xml",
-    "id": "https://speaking-easy.com/"
+    "url": "https://techvoices.org/feed/feed.xml",
+    "id": "https://techvoices-org/"
   },
   "author": {
     "name": "TechVoices",
