@@ -12,6 +12,12 @@ Working with Agile Alliance First time Speaker Mentoring Initiative
 
 This year Agile Alliance is working hard to support new voices at conferences by introducing a First-time Speaker Mentoring Initiative which will be [supported by mentors](https://www.agilealliance.org/agile2020/first-time-speaker-mentoring-initiative/) from their community and we hope many of our own TechVoices mentors will get involved as well!
 
+Are you looking to speak at Agile 2020 and would appreciated a mentor?
+
+Come join us via our [calendly link](https://calendly.com/agile2020/call-for-collaboration?month=2020-01). We are accepting mentees throughout the month of January and would love to see you there!
+
+What will the mentoring look like?
+
 The mentoring will follow our onboarding strategy of hosting a 15 minute call where the mentor can help the mentee hone in on their most promising story to share in a conference submission. While 15 minutes may not polish the text of a proposal, it can provide focus and clarity for the mentee on what story they should share.
 
 So knowing this, here are a few FAQ's you may be thinking about:
