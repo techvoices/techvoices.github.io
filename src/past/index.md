@@ -20,6 +20,11 @@ We have been working with conferences, speakers and mentors, and want to celebra
 
 ## TechVoices Speakers
 
+### 2020 graduates
+
+  * Ioana Porcarasu: Go Fast in a Regulated Environment, at *Romania Testing Conference 2020*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
+  * Sanda Pop: Container Test Infrastructure, a Crash Course, at *Romania Testing Conference 2020*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
+
 ### 2019 Graduates
 
    * [Aditi Mulay](https://twitter.com/AditiMulay18): UI Automation - It's Not Free, at *Selenium Conference Chicago 2018*, and Leveraging Development Principles into Automation Framework, at *Agile Testing Days USA 2019*, mentored by [Bob Galen](https://twitter.com/bobgalen)
@@ -87,4 +92,3 @@ We have been working with conferences, speakers and mentors, and want to celebra
    * [Ru Cindrea](https://twitter.com/ru_altom): Detection Theory Applied To Finding and Fixing Defects,
    at Agile Dev, Better Software & DevOps Conference East 2015, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp).
    * Claudiu Todoran mentored by James Lyndsay
-
