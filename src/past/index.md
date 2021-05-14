@@ -21,6 +21,10 @@ We have been working with conferences, speakers and mentors, and want to celebra
 
 ## TechVoices Speakers
 
+### 2021 graduates
+
+  * Naomi Fleisher: Navigating Rapid Change: How I Gave Birth to Dev Testing and a Baby in 9 Months at *TestBash Home 2021* in June 16-17th 2021, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
+
 ### 2020 graduates
 
   * Monika Budhiraja: 7 Strategies for faster and peaceful product releases, at *Test Leadership Conference* in June 2019, *Testingmind automation summit* in May 2020 and *Digital QA Day* in June 2020, mentored by Klaus Moritzen.
