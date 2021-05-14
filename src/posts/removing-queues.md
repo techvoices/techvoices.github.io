@@ -13,6 +13,7 @@ Instead of maintaining queues of mentees and prioritizing it, we have started me
 We've come to understand there are many choices of how we can invest our time in taking TechVoices forward:
 
   * Mentoring new speakers with the available capacity
+  * Maintaining our web pages - the tech requires attention even when contents don't change
   * Recruiting mentors to grow capacity, and managing a mentor community
   * Recruiting mentees by promoting the program actively and managing the queue of aspiring speakers
   * Promoting new speakers to conferences and creating priority routes for new speaker selection
