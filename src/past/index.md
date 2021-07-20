@@ -27,6 +27,7 @@ We have been working with conferences, speakers and mentors, and want to celebra
 
 ### 2020 graduates
 
+  * Aishwarya Vishwanath, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
   * Monika Budhiraja: 7 Strategies for faster and peaceful product releases, at *Test Leadership Conference* in June 2019, *Testingmind automation summit* in May 2020 and *Digital QA Day* in June 2020, mentored by Klaus Moritzen.
   * Ioana Porcarasu: Go Fast in a Regulated Environment, at *Romania Testing Conference 2020*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
   * Sanda Pop: Container Test Infrastructure, a Crash Course, at *Romania Testing Conference 2020*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
