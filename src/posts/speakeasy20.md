@@ -26,4 +26,4 @@ One way we are supporting people is by identifying the different stages on their
 
 For partner conference submissions, mention you are with TechVoices if you are either TechVoices Speaker, if you have been assigned or requested a mentor but are awaiting a mentor assignment.
 
-New leadership team is Ash Coleman (USA), Abby Bangser (UK) and Maaret Pyhäjärvi (Finland). Join us in helping take TechVoices forward. We are looking forward to work with speakers, mentors, and organizers of conferences, meetups and webinars. [Get in touch](mailto:techvoices.org@gmail.com)!
+New leadership team is Ash Coleman (USA), Abby Bangser (UK) and Maaret Pyhäjärvi (Finland). Join us in helping take TechVoices forward. We are looking forward to work with speakers, mentors, and organizers of conferences, meetups and webinars. [Get in touch](mailto:maaret+techvoices@iki.fi)!

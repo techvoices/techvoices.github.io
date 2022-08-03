@@ -17,9 +17,14 @@ We have been working with conferences, speakers and mentors, and want to celebra
    * [Rachel Kibler](https://twitter.com/racheljoi): Real Life is Not an Edge Case at *Agile Testing Days USA 2019*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp).
    * [Raluca Morariu](https://twitter.com/schumitza): Internal Open Source at *Selenium Conference London 2019*, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp).
    * [Lindsay Uittenbogaard](https://twitter.com/MirrorMirrorHub): Delivery is Still All About People at *German Testing Day 2020*, mentored by [Janet Gregory](https://twitter.com/JanetGregory)
+   * [Ruth Ikegah](https://twitter.com/IkegahRuth): Women of Open Source Community Africa - Emerging a Star at DjangoCon 2022, mentored by [Maaret Pyhäjärvi](https://twitter.com/maaretp)
 
 
 ## TechVoices Speakers
+
+### 2022 graduates
+
+Multiple people have been supported on their first journey to conferences while conference collaboration of having dedicated places for TechVoices Speakers has been on hold. 
 
 ### 2021 graduates
 
